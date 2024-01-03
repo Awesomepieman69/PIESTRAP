@@ -1,6 +1,6 @@
-name:Build and package
+name: Build and Package
 
-
+on:
   push:
     branches: [ "main" ]
   pull_request:
